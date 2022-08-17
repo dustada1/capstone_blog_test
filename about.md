@@ -1,5 +1,6 @@
 ---
 title: ABOUT PAGE
+theme: jekyll-theme-slate
 filename: about.md
 --- 
 
