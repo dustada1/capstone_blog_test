@@ -13,6 +13,12 @@ Drag and Drop:
 
 From images folder:
 <img src="images/2D_sctructure_benzene.png" style="display: block; margin: auto;" />
+
+
 From Permalink:
+
+# Permalink
 <img src="https://github.com/dustada1/capstone_blog_test/blob/e6bccd098b1b673efdcf1edd4e3e6e497509843a/images/drawing.png"/>
+
+# Permalink
 <img src="https://github.com/dustada1/capstone_blog_test/blob/e6bccd098b1b673efdcf1edd4e3e6e497509843a/images/2D_sctructure_benzene.png"/>
