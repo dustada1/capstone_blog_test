@@ -4,7 +4,7 @@ title: Main Page
 
 Go to [about page](about.md)
 
-Go to [Bace Eval] (Bace_Eval/Bace_Eval.md)
+Go to [Bace Eval](Bace_Eval/Bace_Eval.md)
 
 ## Welcome to GitHub Pages
 
