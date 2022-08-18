@@ -7,6 +7,7 @@ title: Main Page
 
 
 Go to [about page](about.md)
+Go go [third page](page3.md)
 
 Go to [Bace Eval](Bace_Eval/Bace_Eval.md)
 
