@@ -1,5 +1,6 @@
 ---
 title: Main Page
+permalink: /
 ---
 
 ### Click [here](BlogPost.pdf) to view the in-depth report.
