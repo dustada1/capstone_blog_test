@@ -1,6 +1,10 @@
 ---
 permalink: /subpages/
+altair-loader:
+  altair-chart-1: "charts/altairtest.json"
 ---
+
+
 
 ## This is a subpage
 
@@ -12,3 +16,5 @@ Drag and Drop:
 From images folder:
 <img src="images/2D_sctructure_benzene.png" style="display: block; margin: auto;" />
 
+
+<div id="altair-chart-1"></div>
