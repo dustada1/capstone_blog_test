@@ -3,3 +3,8 @@ title: University of Michigan MADs 2022 Chemistry Capstone
 description: An exploration of model complexity in the drug discovery field
 baseurl: /capstone_blog_test
 show_downloads: false
+
+include:
+  - .htaccess
+  - _pages
+  - altair
