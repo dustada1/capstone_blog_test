@@ -1,7 +1,7 @@
 ---
 permalink: /subpages/
 altair-loader:
-  altair-chart-1: "../charts/altairtest.json"
+  altair-chart-1: "test_chart.json"
 ---
 
 
@@ -16,5 +16,7 @@ Drag and Drop:
 From images folder:
 <img src="../images/2D_sctructure_benzene.png" style="display: block; margin: auto;" />
 
-
+# This is a test altiar chart:
 <div id="altair-chart-1"></div>
+
+# Did it work? 
