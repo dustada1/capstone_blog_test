@@ -1,4 +1,5 @@
 ---
+permalink: /subpages/
 ---
 
 ## This is a subpage
