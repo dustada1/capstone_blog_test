@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## This is a second page.
 
 And it has some text.
