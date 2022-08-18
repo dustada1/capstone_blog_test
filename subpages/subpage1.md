@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 ## This is a subpage
