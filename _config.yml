@@ -1,9 +1,5 @@
-remote_theme: pages-themes/slate@v0.2.0
-url: https://dustada1.github.io/capstone_blog_test/
-header_pages:
- - index.md
- - about.md
- - page3.md
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
+theme: jekyll-theme-slate
+title: University of Michigan MADs 2022 Chemistry Capstone
+description: An exploration of model complexity in the drug discovery field
+baseurl: /capstone_blog_test/
