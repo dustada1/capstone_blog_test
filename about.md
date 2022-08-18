@@ -1,5 +1,5 @@
 ---
-title: ABOUT PAGE
+title: about.md
 theme: slate
 filename: about.md
 --- 
